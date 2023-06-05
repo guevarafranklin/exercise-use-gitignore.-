@@ -4,7 +4,7 @@ node_modules/
 z*
 
 #Ignoring all files that ends with the ".env"
-*.env
+.env
 
 #Ignoring all files a top-level directory named artifacts.
 /artifacts/
